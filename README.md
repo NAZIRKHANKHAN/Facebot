@@ -20,7 +20,7 @@
 
 ## 📸 Screenshot 📸
 
-![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisJohn/Facebot/blob/main/Screenshot_20221127-201041.png)
+![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisJohn/Facebot/blob/main/Screenshot_20221127-212456.png)
 
 ## ⚙️ Installation ⚙️
 
@@ -57,6 +57,8 @@
 ```python
 
 ➤ cd Facebot 
+
+➤ mkdir data
 
 ➤ python Younisxyz.py
 
